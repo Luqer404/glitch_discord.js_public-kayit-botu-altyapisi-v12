@@ -1,7 +1,7 @@
 {
   "name": "hello-express",
   "version": "0.0.1",
-  "description": "Pepe Code Bos Altyapi v12",
+  "description": "Kagez v12 public register",
   "main": "Pepe.js",
   "scripts": {
     "start": "node Pepe.js"
