@@ -1,3 +1,3 @@
-# Get Started!
+# kayit-altyapi-v12
 
-Add files and start typing 🎉
+readme.md güncellenecektir
