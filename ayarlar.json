@@ -1,16 +1,16 @@
 {
   "prefix": ".",
-  "sahip": "",
-  "sunucuid": "",
+  "sahip": "Sayipıd",
+  "sunucuid": "sunucuıd",
   "oynuyor": "Kagezpublicregister",
-  "tag": "",
-  "teyitçi": "",
-  "kayıtkanal": "",
+  "tag": "tagınız",
+  "teyitçi": "yetkili ıd",
+  "kayıtkanal": "register kanal ıd",
   "çizgi": "|",
-  "erkek": "",
-  "kadın": "",
-  "kayıtsız": "",
+  "erkek": "erkekrolıd",
+  "kadın": "kadınrolıd",
+  "kayıtsız": "kayıtsızrolıd",
   "girişembed": "evet",
-  "tagrol": "",
-  "taglog": ""
+  "tagrol": "tagrol ıd",
+  "taglog": "taglogıd"
 }

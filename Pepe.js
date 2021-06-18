@@ -97,11 +97,11 @@ client.on('message',async message => {
 // [ ----------------------------------------------] \\
 client.on('ready',async () => {
 const Sunucu = client.guilds.cache.get(ayarlar.sunucuid)
-const Yapımcı = await client.users.fetch(ayarlar.sahip || '675593025468235806')
+const Yapımcı = await client.users.fetch(ayarlar.sahip || '750281805009125386')
 client.user.setActivity(ayarlar.oynuyor || `${Yapımcı.username} 💖 ${Sunucu.name}`,{ type: 'PLAYING', status: 'idle'})
 const Ses = client.channels.cache.get(ayarlar.SesKanalı)
 if (Ses) Ses.join()
-if (db.all().length <= 0) db.set('YouTube.com/c/revengenyks31',31)
+if (db.all().length <= 0) db.set('kagezpublicregister',31)
 console.log(`${client.user.username}, ${Sunucu.name} için aktif durumda!`)
 })
 // [ ----------------------------------------------] \\
