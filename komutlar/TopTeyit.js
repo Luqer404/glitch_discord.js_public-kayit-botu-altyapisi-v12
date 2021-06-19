@@ -17,12 +17,12 @@ message.channel.send(Revenge)
 exports.conf = {
     enabled: true,
     guildOnly: true,
-    aliases: ['top'],
+    aliases: ['tt'],
     permLevel: 0
 }
 
 exports.help = {
-    name: 'TOP Teyit',
+    name : "tt",
     description: 'En Çok Teyit Yapanlar.',
     usage: 'tt'
 }
