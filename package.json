@@ -1,6 +1,6 @@
 {
  
-  "description": "public register",
+  "description": "Public reg",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
